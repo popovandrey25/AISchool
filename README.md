@@ -1,2 +1,3 @@
 # AISchool
-Materials for AI School
+
+Материалы для школы AI School.
